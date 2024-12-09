@@ -1,17 +1,5 @@
 # Improving-Data-Quality
 
-# Objectives
-
-In this lab, you will learn how to:
-
-Resolve missing values.
-Convert the Date feature column to a datetime format.
-Rename a feature column, remove a value from a feature column.
-Create one-hot encoding features.
-Understand temporal feature conversions.
-
-# Learning Objectives
-
 Resolve missing values
 Convert the Date feature column to a datetime format
 Rename a feature column, remove a value from a feature column
